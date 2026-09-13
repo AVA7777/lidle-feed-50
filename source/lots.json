@@ -1,0 +1,61 @@
+[
+  {"project":"luchi","role":"entry","type":"Студия","building":"5","section":"1","floor":3,"flat":"21","area":21.6,"kitchen":0,"finish":"Без отделки","price":11779732,"plan":"https://selcdn.trendagent.ru/images/ip/wm/ghq9g7ec3e6wk8n1lqo5ehfq.png"},
+  {"project":"luchi","role":"optimal","type":"2Е-к.кв","building":"8","section":"9","floor":21,"flat":"1935","area":35.9,"kitchen":19.4,"finish":"Без отделки","price":16708793,"plan":"https://selcdn.trendagent.ru/images/i7/h4/rit7dt4xueehxnkh02mhqtby.png"},
+  {"project":"luchi","role":"value","type":"3-к.кв","building":"8","section":"8","floor":2,"flat":"1540","area":60.7,"kitchen":12.5,"finish":"Без отделки","price":21639974,"plan":"https://selcdn.trendagent.ru/images/a6/9x/5hxf4ahh137g5zlpyae1vihr.png"},
+  {"project":"luchi","role":"family","type":"3-к.кв","building":"8","section":"7","floor":2,"flat":"1462","area":60.8,"kitchen":10.6,"finish":"Без отделки","price":22318889,"plan":"https://selcdn.trendagent.ru/images/kh/my/9di6nkea010tta7x0zrsg9ag.png"},
+  {"project":"luchi","role":"premium","type":"3Е-к.кв","building":"1-2","section":"4","floor":20,"flat":"824","area":61.8,"kitchen":18.5,"finish":"Чистовая","price":29189314,"plan":"https://selcdn.trendagent.ru/images/1/c/35ie4wa3g50in8mtatrdvr2h.png"},
+
+  {"project":"s5","role":"entry","type":"1-к.кв","building":"6","section":"1","floor":3,"flat":"60305","area":41.1,"kitchen":8.4,"finish":"Без стен","price":33917364,"plan":"https://selcdn.trendagent.ru/images/v1/xh/50q6fbd8lqy74konb8klvahu.png"},
+  {"project":"s5","role":"optimal","type":"2Е-к.кв","building":"4","section":"1","floor":2,"flat":"40204","area":56,"kitchen":27.1,"finish":"Без стен","price":37951200,"plan":"https://selcdn.trendagent.ru/images/63/s2/iwdi01zdd33dgkvfwd9yegab.png"},
+  {"project":"s5","role":"value","type":"1-к.кв","building":"6","section":"1","floor":2,"flat":"60202","area":40.9,"kitchen":8.6,"finish":"Без стен","price":37047600,"plan":"https://selcdn.trendagent.ru/images/u6/ef/gavoa0oopdv6r1k2silhw06t.png"},
+  {"project":"s5","role":"family","type":"5Е-к.кв","building":"6","section":"1","floor":40,"flat":"64004","area":123.4,"kitchen":25.3,"finish":"Без стен","price":93320016,"plan":"https://selcdn.trendagent.ru/images/cw/7p/12cxp5ucdn1h66of3ffbqo7k.png"},
+  {"project":"s5","role":"premium","type":"5Е-к.кв","building":"1","section":"1","floor":8,"flat":"10801","area":126,"kitchen":24.9,"finish":"Без стен","price":112353160,"plan":"https://selcdn.trendagent.ru/images/56/cf/lixdarfha648tqk2qchrzihm.png"},
+
+  {"project":"level-yuzhnoportovaya","role":"entry","type":"Студия","building":"10","section":"1","floor":16,"flat":"199","area":28.7,"kitchen":0,"finish":"Без отделки","price":15894762},
+  {"project":"level-yuzhnoportovaya","role":"optimal","type":"2Е-к.кв","building":"14","section":"1","floor":4,"flat":"19","area":46.5,"kitchen":19.1,"finish":"Без стен","price":16810673},
+  {"project":"level-yuzhnoportovaya","role":"value","type":"3Е-к.кв","building":"13","section":"1","floor":5,"flat":"33","area":56.4,"kitchen":14.5,"finish":"Без стен","price":18524417},
+  {"project":"level-yuzhnoportovaya","role":"family","type":"3Е-к.кв","building":"13","section":"1","floor":8,"flat":"72","area":56.4,"kitchen":14.5,"finish":"Без стен","price":18580533},
+  {"project":"level-yuzhnoportovaya","role":"premium","type":"4-к.кв","building":"1","section":"1","floor":68,"flat":"958","area":120.6,"kitchen":19.4,"finish":"Без стен","price":56824574},
+
+  {"project":"zilart","role":"entry","type":"Студия","building":"СПАРК-3","section":"1","floor":8,"flat":"1404","area":17.8,"kitchen":0,"finish":"Без стен","price":16798038},
+  {"project":"zilart","role":"optimal","type":"2Е-к.кв","building":"СПАРК-3","section":"1","floor":40,"flat":"1851","area":33.5,"kitchen":16.6,"finish":"Без стен","price":21885449},
+  {"project":"zilart","role":"value","type":"2Е-к.кв","building":"СПАРК-3","section":"1","floor":40,"flat":"1849","area":35.1,"kitchen":17.2,"finish":"Без стен","price":22243887},
+  {"project":"zilart","role":"family","type":"3Е-к.кв","building":"СПАРК-1","section":"1.1","floor":4,"flat":"10","area":58.9,"kitchen":19.5,"finish":"Без стен","price":32786567},
+  {"project":"zilart","role":"premium","type":"5Е-к.кв","building":"СПАРК-3","section":"1","floor":42,"flat":"1880","area":109.7,"kitchen":32.5,"finish":"Без стен","price":85206293},
+
+  {"project":"losinoostrovskiy-park","role":"entry","type":"Студия","building":"2.3","section":"1","floor":8,"flat":"1017891","area":30.7,"kitchen":0,"finish":"Без стен","price":15064490},
+  {"project":"losinoostrovskiy-park","role":"optimal","type":"1-к.кв","building":"2.3","section":"2","floor":11,"flat":"1018020","area":31.8,"kitchen":16.4,"finish":"Без стен","price":16570980},
+  {"project":"losinoostrovskiy-park","role":"value","type":"2-к.кв","building":"2.3","section":"2","floor":3,"flat":"1017966","area":48.9,"kitchen":17.9,"finish":"Без стен","price":21056340},
+  {"project":"losinoostrovskiy-park","role":"family","type":"2-к.кв","building":"2.3","section":"2","floor":16,"flat":"1018054","area":46.7,"kitchen":15.3,"finish":"Без стен","price":20529320},
+  {"project":"losinoostrovskiy-park","role":"premium","type":"3-к.кв","building":"2.3","section":"2","floor":14,"flat":"1018037","area":75.8,"kitchen":25.1,"finish":"Без стен","price":26425244},
+
+  {"project":"nizhegorodskaya","role":"entry","type":"Студия","building":"1","section":"7","floor":12,"flat":"675","area":29.74,"kitchen":0,"finish":"Без отделки","price":14520055},
+  {"project":"nizhegorodskaya","role":"optimal","type":"1-к.кв","building":"1","section":"7","floor":3,"flat":"552","area":34.87,"kitchen":9.14,"finish":"Без отделки","price":16920565},
+  {"project":"nizhegorodskaya","role":"value","type":"1-к.кв","building":"1","section":"7","floor":2,"flat":"540","area":36.14,"kitchen":10.77,"finish":"Без отделки","price":16925288},
+  {"project":"nizhegorodskaya","role":"family","type":"2-к.кв","building":"1","section":"5","floor":3,"flat":"152","area":51.46,"kitchen":10.35,"finish":"Без отделки","price":20002262},
+  {"project":"nizhegorodskaya","role":"premium","type":"3-к.кв","building":"1","section":"4","floor":3,"flat":"14","area":80.67,"kitchen":15.07,"finish":"Без отделки","price":31195459},
+
+  {"project":"admiral","role":"entry","type":"Студия","building":"1.1","section":"1","floor":16,"flat":"477","area":28.5,"kitchen":0,"finish":"Без отделки","price":16834427},
+  {"project":"admiral","role":"optimal","type":"1-к.кв","building":"1.1","section":"1","floor":3,"flat":"296","area":38.7,"kitchen":14.3,"finish":"Без отделки","price":20151411},
+  {"project":"admiral","role":"value","type":"2Е-к.кв","building":"1.1","section":"1","floor":15,"flat":"459","area":41.9,"kitchen":15.5,"finish":"Без отделки","price":21690798},
+  {"project":"admiral","role":"family","type":"3Е-к.кв","building":"1.1","section":"1","floor":7,"flat":"350","area":62.6,"kitchen":15,"finish":"Без отделки","price":27981838},
+  {"project":"admiral","role":"premium","type":"3-к.кв","building":"1.4","section":"3","floor":4,"flat":"190","area":73.7,"kitchen":13.2,"finish":"Без отделки","price":36008230},
+
+  {"project":"ice-towers","role":"entry","type":"2Е-к.кв","building":"I","section":"1","floor":15,"flat":"171","area":36.7,"kitchen":17.2,"finish":"Без стен","price":29153599},
+  {"project":"ice-towers","role":"optimal","type":"2Е-к.кв","building":"I","section":"1","floor":15,"flat":"174","area":40.7,"kitchen":18.9,"finish":"Без стен","price":29655648},
+  {"project":"ice-towers","role":"value","type":"3Е-к.кв","building":"I","section":"1","floor":21,"flat":"247","area":57.5,"kitchen":16.1,"finish":"Без стен","price":41694374},
+  {"project":"ice-towers","role":"family","type":"3Е-к.кв","building":"I","section":"1","floor":22,"flat":"258","area":57.5,"kitchen":16.1,"finish":"Без стен","price":41923214},
+  {"project":"ice-towers","role":"premium","type":"4Е-к.кв","building":"I","section":"1","floor":15,"flat":"177","area":87.2,"kitchen":23.6,"finish":"Без стен","price":62983470},
+
+  {"project":"kinetik","role":"entry","type":"Студия","building":"2","section":"1","floor":5,"flat":"151","area":35.2,"kitchen":0,"finish":"Без стен","price":16740909,"plan":"https://selcdn.trendagent.ru/images/ki/bs/1qu2f6kiheysxsgn6y34a3xd.png"},
+  {"project":"kinetik","role":"optimal","type":"2Е-к.кв","building":"2","section":"1","floor":7,"flat":"1710","area":41.75,"kitchen":15.27,"finish":"Без стен","price":21650141,"plan":"https://selcdn.trendagent.ru/images/rh/3u/010k03drmxwi97eq5gq0nv27.png"},
+  {"project":"kinetik","role":"value","type":"Студия","building":"2","section":"1","floor":6,"flat":"161","area":41.46,"kitchen":0,"finish":"Без стен","price":19925687,"plan":"https://selcdn.trendagent.ru/images/v6/b5/vilh7rh688hwwlz7yy0nyuzo.png"},
+  {"project":"kinetik","role":"family","type":"3Е-к.кв","building":"2","section":"1","floor":13,"flat":"1133","area":81.24,"kitchen":27.45,"finish":"Без стен","price":38482105,"plan":"https://selcdn.trendagent.ru/images/rs/pm/x2h37b9tnq4mokkvr5ip09t5.png"},
+  {"project":"kinetik","role":"premium","type":"4Е-к.кв","building":"2","section":"1","floor":20,"flat":"1203","area":89.84,"kitchen":33.88,"finish":"Без стен","price":44348182,"plan":"https://selcdn.trendagent.ru/images/xr/lx/nxn1f5a5mkrs6f46qedyf9pz.png"},
+
+  {"project":"moskvoreche","role":"entry","type":"Студия","building":"1.2","section":"3","floor":16,"flat":"964503","area":19.1,"kitchen":0,"finish":"Чистовая","price":13988840},
+  {"project":"moskvoreche","role":"optimal","type":"1-к.кв","building":"1.3","section":"4","floor":37,"flat":"984996","area":32,"kitchen":14.5,"finish":"Чистовая","price":18374400},
+  {"project":"moskvoreche","role":"value","type":"2Е-к.кв","building":"1.2","section":"3","floor":1,"flat":"964326","area":36.9,"kitchen":15.3,"finish":"Чистовая","price":19497960},
+  {"project":"moskvoreche","role":"family","type":"3Е-к.кв","building":"1.2","section":"3","floor":2,"flat":"964328","area":56.3,"kitchen":21.6,"finish":"Чистовая","price":28780560},
+  {"project":"moskvoreche","role":"premium","type":"3-к.кв","building":"1.3","section":"4","floor":3,"flat":"984887","area":67.8,"kitchen":20.9,"finish":"Чистовая","price":34700040}
+]

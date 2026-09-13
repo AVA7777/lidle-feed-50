@@ -1,0 +1,82 @@
+[
+  {
+    "id": "luchi", "name": "Лучи", "address": "Москва, район Солнцево, Производственная улица, 12", "latitude": 55.6446722, "longitude": 37.3898865,
+    "metro": "Солнцево", "walkMinutes": 10,
+    "intro": "Жилой комплекс «Лучи» в Солнцеве, рядом с метро и сложившейся городской инфраструктурой.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/al/9g/l_bd53da3a4251c6a830916d22d613e4d8.png", "https://selcdn.trendagent.ru/images/kd/z1/l_e5ea177934bbb243f9b0508dccdb738e.png", "https://selcdn.trendagent.ru/images/ru/n1/l_de6b09f66b626fb7d33684b9ae4c432d.png", "https://selcdn.trendagent.ru/images/or/6a/l_7146a10c3d2aa91737b48be7a002e540.jpg", "https://selcdn.trendagent.ru/images/mn/aa/l_97afa3a935909b83a4a9bfdac781e2a6.jpg"
+    ]
+  },
+  {
+    "id": "s5", "name": "С5", "address": "Москва, район Аэропорт, улица Серёгина, 5", "latitude": 55.7954746, "longitude": 37.5480834,
+    "metro": "Петровский парк", "walkMinutes": 10, "readyQuarter": 1, "builtYear": 2030,
+    "intro": "Проект «С5» у Петровского парка и Динамо — городской формат высокого класса с выразительной архитектурой.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/3n/a2/l_743605116ae4703534a9a8845706d64f.jpg", "https://selcdn.trendagent.ru/images/un/t8/l_004dec024e89d9e9639a69de02d1e788.jpg", "https://selcdn.trendagent.ru/images/zg/yk/l_34ab3a1e5af15cac99a0e07f71b971c6.jpg", "https://selcdn.trendagent.ru/images/rt/w2/l_deb771a3ae78c6a3c56f751e2e2232ef.jpg", "https://selcdn.trendagent.ru/images/xq/iv/l_a7766dae745ee88834757b6533388ef9.jpg"
+    ]
+  },
+  {
+    "id": "level-yuzhnoportovaya", "name": "Level Южнопортовая", "address": "Москва, район Печатники, Южнопортовая улица", "latitude": 55.7051424, "longitude": 37.6970166,
+    "metro": "Кожуховская", "walkMinutes": 10,
+    "intro": "Level Южнопортовая — современный квартал у Москвы-реки с благоустроенными дворами и собственной инфраструктурой.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/q6/9a/l_c616f124d491eda9b72a2dcc23727d9e.jpg", "https://selcdn.trendagent.ru/images/aq/aw/l_6df86a33c52dd2363733b355b1e05266.jpg", "https://selcdn.trendagent.ru/images/q2/ez/l_b240647d8286552f873ad00ad2a01aeb.jpg", "https://selcdn.trendagent.ru/images/d3/io/l_1eac0cc8c222eb459ec7f2aea67bac62.jpg", "https://selcdn.trendagent.ru/images/rq/e1/l_9d81174055ce82ef5b9191affe24dfe4.jpg"
+    ]
+  },
+  {
+    "id": "zilart", "name": "ЗИЛАРТ", "address": "Москва, Даниловский район, Автозаводская улица, владение 23", "latitude": 55.6972236, "longitude": 37.6369797,
+    "metro": "ЗИЛ", "walkMinutes": 15, "readyQuarter": 4, "builtYear": 2027, "keyHandoverDate": "2028-06-30",
+    "intro": "Квартал «ЗИЛАРТ» рядом с набережной, парком «Тюфелева роща» и станцией ЗИЛ.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/v4/6t/l_042e06da33c1c927dcfdef1048eefcca.jpg", "https://selcdn.trendagent.ru/images/67/wv/l_a9ef23aac5b13814c7f2f5973d7bf62c.jpg", "https://selcdn.trendagent.ru/images/1z/7h/l_79524f49a41897ebaf76012f0646c779.jpg", "https://selcdn.trendagent.ru/images/m7/x5/l_da77a2c43b5489ccb1c6c2f0e358cf35.jpg", "https://selcdn.trendagent.ru/images/go/kn/l_7215a1bc53e386b9495f8fb46c3b4549.jpg"
+    ]
+  },
+  {
+    "id": "losinoostrovskiy-park", "name": "Лосиноостровский парк", "address": "Москва, район Метрогородок, Открытое шоссе, корпус 2.3", "latitude": 55.8168760, "longitude": 37.7469389,
+    "metro": "Бульвар Рокоссовского", "walkMinutes": 10, "readyQuarter": 1, "builtYear": 2028,
+    "intro": "«Лосиноостровский парк» — жилой квартал в Метрогородке рядом с зелёными территориями и метро.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/9d/wp/l_bbc750f98237b61dcd13603a5a18cd2f.jpg", "https://selcdn.trendagent.ru/images/s5/ym/l_a6203f3c33c73b5c83e56ff149054133.jpg", "https://selcdn.trendagent.ru/images/fk/ag/l_e9f86a52bd088d5da6364d4762ec9716.jpg", "https://selcdn.trendagent.ru/images/b3/ti/l_e435583598760ce6a6084f3f6058739b.jpg", "https://selcdn.trendagent.ru/images/mt/oo/l_8ddad5a53bd76e387e60c00cbf8031f8.jpg"
+    ]
+  },
+  {
+    "id": "nizhegorodskaya", "name": "Нижегородская от Гранель", "address": "Москва, Нижегородский район, Газгольдерная улица, владение 10А", "latitude": 55.7282, "longitude": 37.7477,
+    "metro": "Нижегородская", "walkMinutes": 15, "readyQuarter": 3, "builtYear": 2028, "keyHandoverDate": "2028-12-31",
+    "intro": "Проект бизнес-класса «Нижегородская» расположен в развивающемся Нижегородском районе.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/7u/mr/l_a8fbd1d077582cff5aa98d79d2fba7e5.jpg", "https://selcdn.trendagent.ru/images/om/pl/l_8d2ad8018dd44b7a54611fd0dff9ca55.jpg", "https://selcdn.trendagent.ru/images/ir/ms/l_6331e0a735fb46dc470c7261f8158303.jpg", "https://selcdn.trendagent.ru/images/az/7v/l_d0ff92f040d8c826d1a2908973ca921e.jpg", "https://selcdn.trendagent.ru/images/4r/gx/l_ebd9d61b81cb1c8734615527ac51aa96.jpg"
+    ]
+  },
+  {
+    "id": "admiral", "name": "Адмирал", "address": "Москва, район Печатники, Шоссейная улица, 4А", "latitude": 55.6979852, "longitude": 37.7241993,
+    "metro": "Печатники", "walkMinutes": 5, "readyQuarter": 3, "builtYear": 2028, "keyHandoverDate": "2028-09-30",
+    "intro": "Квартал бизнес-класса «Адмирал» находится рядом с метро «Печатники» и городской инфраструктурой.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/66/no/l_86346322611adb0674c3ad65410544ef.jpg", "https://selcdn.trendagent.ru/images/xo/cp/l_ca6525d91d74da17c9d3d4c7738ea283.jpg", "https://selcdn.trendagent.ru/images/hd/id/l_f784ec9ed32bc7bac29abf9ac3b67fef.jpg", "https://selcdn.trendagent.ru/images/ep/mt/l_c9c6144ca67b826ef57c3aab0a0c1585.jpg", "https://selcdn.trendagent.ru/images/2o/59/l_0e32a8299f34508a3947705c0b575443.jpg"
+    ]
+  },
+  {
+    "id": "ice-towers", "name": "ICE Towers", "address": "Москва, район Проспект Вернадского, улица Лобачевского, 3", "latitude": 55.6658667, "longitude": 37.5037149,
+    "metro": "Новаторская", "walkMinutes": 10, "readyQuarter": 4, "builtYear": 2028, "keyHandoverDate": "2029-06-30",
+    "intro": "ICE Towers — высотный жилой проект у метро «Новаторская» с выразительной архитектурой и видовыми этажами.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/k1/6b/l_ce6e1b7a4f71e0c94b36feb8ed551e94.jpg", "https://selcdn.trendagent.ru/images/fv/vf/l_20cb1b232f2c42757609a81940c3f3f2.jpg", "https://selcdn.trendagent.ru/images/k7/10/l_00e9540b37d99af56dc525cab46f3071.jpg", "https://selcdn.trendagent.ru/images/rv/7k/l_6fc9cf43f120f69438642ef1bf608780.jpg", "https://selcdn.trendagent.ru/images/7c/al/l_0907d303c6da79459580dc70ee3fb1a2.jpg"
+    ]
+  },
+  {
+    "id": "kinetik", "name": "KINETIK. Резиденции на Дмитровском", "address": "Москва, район Западное Дегунино, Дмитровское шоссе, 75/77", "latitude": 55.8585847, "longitude": 37.5564829,
+    "metro": "Верхние Лихоборы", "walkMinutes": 5, "readyQuarter": 4, "builtYear": 2029, "keyHandoverDate": "2030-03-31",
+    "intro": "KINETIK — резиденции на Дмитровском шоссе, в нескольких минутах пешком от метро «Верхние Лихоборы».",
+    "images": [
+      "https://selcdn.trendagent.ru/images/tk/p0/l_864c887965b22a5df0c5cec6a98fdd64.jpg", "https://selcdn.trendagent.ru/images/u5/pt/l_8816a7405665fc69d01345de63cd7e92.jpg", "https://selcdn.trendagent.ru/images/32/3k/l_5e2f9749556c1adf6a0daf4abc35e4aa.jpg", "https://selcdn.trendagent.ru/images/4i/y3/l_0c786d5954100b47bfc263025fa700bb.jpg", "https://selcdn.trendagent.ru/images/dq/nf/l_f04c8daa2cf5143f95f4ed6c15d3052b.jpg"
+    ]
+  },
+  {
+    "id": "moskvoreche", "name": "Москворечье", "address": "Москва, район Москворечье-Сабурово, Котляковская улица", "latitude": 55.6453262, "longitude": 37.6411365,
+    "metro": "Каширская", "walkMinutes": 20, "readyQuarter": 4, "builtYear": 2027, "keyHandoverDate": "2028-03-31",
+    "intro": "«Москворечье» — новый жилой квартал в районе Москворечье-Сабурово с готовой городской средой вокруг.",
+    "images": [
+      "https://selcdn.trendagent.ru/images/n6/gr/l_5dd981d9817b4132e07279083ebef04c.jpg", "https://selcdn.trendagent.ru/images/09/ev/l_6d6aeaad11817aebf683b25adaafcc52.jpg", "https://selcdn.trendagent.ru/images/g1/hm/l_dbd9f4ed3d0cf074cc64bab7dff7642f.jpg", "https://selcdn.trendagent.ru/images/hs/qy/l_3eb40687c56386baa240cfcdb89ee48a.jpg", "https://selcdn.trendagent.ru/images/2u/2b/l_47057e7b48590adef7392bb393786a5a.jpg"
+    ]
+  }
+]

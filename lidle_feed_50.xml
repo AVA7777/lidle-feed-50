@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-09-14T01:46:09+03:00</generation-date>
+  <offer internal-id="luchi-5-21">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Солнцево, Производственная улица, 12</address>
+      <latitude>55.6446722</latitude>
+      <longitude>37.3898865</longitude>
+      <metro><name>Солнцево</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>11779732</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>3</floor>
+    <apartment>21</apartment>
+    <building-name>Лучи</building-name>
+    <building-section>корпус 5, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/ip/wm/ghq9g7ec3e6wk8n1lqo5ehfq.png</image>
+    <image>https://selcdn.trendagent.ru/images/al/9g/l_bd53da3a4251c6a830916d22d613e4d8.png</image>
+    <image>https://selcdn.trendagent.ru/images/kd/z1/l_e5ea177934bbb243f9b0508dccdb738e.png</image>
+    <image>https://selcdn.trendagent.ru/images/ru/n1/l_de6b09f66b626fb7d33684b9ae4c432d.png</image>
+    <image>https://selcdn.trendagent.ru/images/or/6a/l_7146a10c3d2aa91737b48be7a002e540.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/mn/aa/l_97afa3a935909b83a4a9bfdac781e2a6.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. Студия № 21, 21,6 кв. м, 3 этаж, корпус 5, секция 1. Квартира передаётся без отделки. Жилой комплекс «Лучи» в Солнцеве, рядом с метро и сложившейся городской инфраструктурой. До метро «Солнцево» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>21.6</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="luchi-8-1935">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Солнцево, Производственная улица, 12</address>
+      <latitude>55.6446722</latitude>
+      <longitude>37.3898865</longitude>
+      <metro><name>Солнцево</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>16708793</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>21</floor>
+    <apartment>1935</apartment>
+    <building-name>Лучи</building-name>
+    <building-section>корпус 8, секция 9</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/i7/h4/rit7dt4xueehxnkh02mhqtby.png</image>
+    <image>https://selcdn.trendagent.ru/images/kd/z1/l_e5ea177934bbb243f9b0508dccdb738e.png</image>
+    <image>https://selcdn.trendagent.ru/images/ru/n1/l_de6b09f66b626fb7d33684b9ae4c432d.png</image>
+    <image>https://selcdn.trendagent.ru/images/or/6a/l_7146a10c3d2aa91737b48be7a002e540.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/mn/aa/l_97afa3a935909b83a4a9bfdac781e2a6.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/al/9g/l_bd53da3a4251c6a830916d22d613e4d8.png</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 2Е-к.кв № 1935, 35,9 кв. м, 21 этаж, корпус 8, секция 9. Кухня-гостиная — 19,4 кв. м. Квартира передаётся без отделки. Жилой комплекс «Лучи» в Солнцеве, рядом с метро и сложившейся городской инфраструктурой. До метро «Солнцево» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>35.9</value><unit>кв. м</unit></area>
+    <kitchen-space><value>19.4</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="luchi-8-1540">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Солнцево, Производственная улица, 12</address>
+      <latitude>55.6446722</latitude>
+      <longitude>37.3898865</longitude>
+      <metro><name>Солнцево</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>21639974</value><currency>RUR</currency></price>
+    <rooms>3</rooms>
+    <new-flat>true</new-flat>
+    <floor>2</floor>
+    <apartment>1540</apartment>
+    <building-name>Лучи</building-name>
+    <building-section>корпус 8, секция 8</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/a6/9x/5hxf4ahh137g5zlpyae1vihr.png</image>
+    <image>https://selcdn.trendagent.ru/images/ru/n1/l_de6b09f66b626fb7d33684b9ae4c432d.png</image>
+    <image>https://selcdn.trendagent.ru/images/or/6a/l_7146a10c3d2aa91737b48be7a002e540.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/mn/aa/l_97afa3a935909b83a4a9bfdac781e2a6.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/al/9g/l_bd53da3a4251c6a830916d22d613e4d8.png</image>
+    <image>https://selcdn.trendagent.ru/images/kd/z1/l_e5ea177934bbb243f9b0508dccdb738e.png</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 3-к.кв № 1540, 60,7 кв. м, 2 этаж, корпус 8, секция 8. Кухня — 12,5 кв. м. Квартира передаётся без отделки. Жилой комплекс «Лучи» в Солнцеве, рядом с метро и сложившейся городской инфраструктурой. До метро «Солнцево» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>60.7</value><unit>кв. м</unit></area>
+    <kitchen-space><value>12.5</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="luchi-8-1462">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Солнцево, Производственная улица, 12</address>
+      <latitude>55.6446722</latitude>
+      <longitude>37.3898865</longitude>
+      <metro><name>Солнцево</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>22318889</value><currency>RUR</currency></price>
+    <rooms>3</rooms>
+    <new-flat>true</new-flat>
+    <floor>2</floor>
+    <apartment>1462</apartment>
+    <building-name>Лучи</building-name>
+    <building-section>корпус 8, секция 7</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/kh/my/9di6nkea010tta7x0zrsg9ag.png</image>
+    <image>https://selcdn.trendagent.ru/images/or/6a/l_7146a10c3d2aa91737b48be7a002e540.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/mn/aa/l_97afa3a935909b83a4a9bfdac781e2a6.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/al/9g/l_bd53da3a4251c6a830916d22d613e4d8.png</image>
+    <image>https://selcdn.trendagent.ru/images/kd/z1/l_e5ea177934bbb243f9b0508dccdb738e.png</image>
+    <image>https://selcdn.trendagent.ru/images/ru/n1/l_de6b09f66b626fb7d33684b9ae4c432d.png</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 3-к.кв № 1462, 60,8 кв. м, 2 этаж, корпус 8, секция 7. Кухня — 10,6 кв. м. Квартира передаётся без отделки. Жилой комплекс «Лучи» в Солнцеве, рядом с метро и сложившейся городской инфраструктурой. До метро «Солнцево» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>60.8</value><unit>кв. м</unit></area>
+    <kitchen-space><value>10.6</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="luchi-1-2-824">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Солнцево, Производственная улица, 12</address>
+      <latitude>55.6446722</latitude>
+      <longitude>37.3898865</longitude>
+      <metro><name>Солнцево</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>29189314</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>20</floor>
+    <apartment>824</apartment>
+    <building-name>Лучи</building-name>
+    <building-section>корпус 1-2, секция 4</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/1/c/35ie4wa3g50in8mtatrdvr2h.png</image>
+    <image>https://selcdn.trendagent.ru/images/mn/aa/l_97afa3a935909b83a4a9bfdac781e2a6.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/al/9g/l_bd53da3a4251c6a830916d22d613e4d8.png</image>
+    <image>https://selcdn.trendagent.ru/images/kd/z1/l_e5ea177934bbb243f9b0508dccdb738e.png</image>
+    <image>https://selcdn.trendagent.ru/images/ru/n1/l_de6b09f66b626fb7d33684b9ae4c432d.png</image>
+    <image>https://selcdn.trendagent.ru/images/or/6a/l_7146a10c3d2aa91737b48be7a002e540.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 3Е-к.кв № 824, 61,8 кв. м, 20 этаж, корпус 1-2, секция 4. Кухня-гостиная — 18,5 кв. м. Предусмотрена чистовая отделка. Жилой комплекс «Лучи» в Солнцеве, рядом с метро и сложившейся городской инфраструктурой. До метро «Солнцево» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>61.8</value><unit>кв. м</unit></area>
+    <kitchen-space><value>18.5</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="s5-6-60305">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Аэропорт, улица Серёгина, 5</address>
+      <latitude>55.7954746</latitude>
+      <longitude>37.5480834</longitude>
+      <metro><name>Петровский парк</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>33917364</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>3</floor>
+    <apartment>60305</apartment>
+    <building-name>С5</building-name>
+    <building-section>корпус 6, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2030</built-year>
+    <image>https://selcdn.trendagent.ru/images/v1/xh/50q6fbd8lqy74konb8klvahu.png</image>
+    <image>https://selcdn.trendagent.ru/images/3n/a2/l_743605116ae4703534a9a8845706d64f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/un/t8/l_004dec024e89d9e9639a69de02d1e788.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/zg/yk/l_34ab3a1e5af15cac99a0e07f71b971c6.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rt/w2/l_deb771a3ae78c6a3c56f751e2e2232ef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/xq/iv/l_a7766dae745ee88834757b6533388ef9.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. 1-к.кв № 60305, 41,1 кв. м, 3 этаж, корпус 6, секция 1. Кухня — 8,4 кв. м. Квартира передаётся без внутренних стен. Проект «С5» у Петровского парка и Динамо — городской формат высокого класса с выразительной архитектурой. До метро «Петровский парк» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>41.1</value><unit>кв. м</unit></area>
+    <kitchen-space><value>8.4</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="s5-4-40204">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Аэропорт, улица Серёгина, 5</address>
+      <latitude>55.7954746</latitude>
+      <longitude>37.5480834</longitude>
+      <metro><name>Петровский парк</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>37951200</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>2</floor>
+    <apartment>40204</apartment>
+    <building-name>С5</building-name>
+    <building-section>корпус 4, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2030</built-year>
+    <image>https://selcdn.trendagent.ru/images/63/s2/iwdi01zdd33dgkvfwd9yegab.png</image>
+    <image>https://selcdn.trendagent.ru/images/un/t8/l_004dec024e89d9e9639a69de02d1e788.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/zg/yk/l_34ab3a1e5af15cac99a0e07f71b971c6.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rt/w2/l_deb771a3ae78c6a3c56f751e2e2232ef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/xq/iv/l_a7766dae745ee88834757b6533388ef9.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/3n/a2/l_743605116ae4703534a9a8845706d64f.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 2Е-к.кв № 40204, 56 кв. м, 2 этаж, корпус 4, секция 1. Кухня-гостиная — 27,1 кв. м. Квартира передаётся без внутренних стен. Проект «С5» у Петровского парка и Динамо — городской формат высокого класса с выразительной архитектурой. До метро «Петровский парк» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>56</value><unit>кв. м</unit></area>
+    <kitchen-space><value>27.1</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="s5-6-60202">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Аэропорт, улица Серёгина, 5</address>
+      <latitude>55.7954746</latitude>
+      <longitude>37.5480834</longitude>
+      <metro><name>Петровский парк</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>37047600</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>2</floor>
+    <apartment>60202</apartment>
+    <building-name>С5</building-name>
+    <building-section>корпус 6, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2030</built-year>
+    <image>https://selcdn.trendagent.ru/images/u6/ef/gavoa0oopdv6r1k2silhw06t.png</image>
+    <image>https://selcdn.trendagent.ru/images/zg/yk/l_34ab3a1e5af15cac99a0e07f71b971c6.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rt/w2/l_deb771a3ae78c6a3c56f751e2e2232ef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/xq/iv/l_a7766dae745ee88834757b6533388ef9.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/3n/a2/l_743605116ae4703534a9a8845706d64f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/un/t8/l_004dec024e89d9e9639a69de02d1e788.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 1-к.кв № 60202, 40,9 кв. м, 2 этаж, корпус 6, секция 1. Кухня — 8,6 кв. м. Квартира передаётся без внутренних стен. Проект «С5» у Петровского парка и Динамо — городской формат высокого класса с выразительной архитектурой. До метро «Петровский парк» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>40.9</value><unit>кв. м</unit></area>
+    <kitchen-space><value>8.6</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="s5-6-64004">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Аэропорт, улица Серёгина, 5</address>
+      <latitude>55.7954746</latitude>
+      <longitude>37.5480834</longitude>
+      <metro><name>Петровский парк</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>93320016</value><currency>RUR</currency></price>
+    <rooms>4</rooms>
+    <new-flat>true</new-flat>
+    <floor>40</floor>
+    <apartment>64004</apartment>
+    <building-name>С5</building-name>
+    <building-section>корпус 6, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2030</built-year>
+    <image>https://selcdn.trendagent.ru/images/cw/7p/12cxp5ucdn1h66of3ffbqo7k.png</image>
+    <image>https://selcdn.trendagent.ru/images/rt/w2/l_deb771a3ae78c6a3c56f751e2e2232ef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/xq/iv/l_a7766dae745ee88834757b6533388ef9.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/3n/a2/l_743605116ae4703534a9a8845706d64f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/un/t8/l_004dec024e89d9e9639a69de02d1e788.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/zg/yk/l_34ab3a1e5af15cac99a0e07f71b971c6.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 5Е-к.кв № 64004, 123,4 кв. м, 40 этаж, корпус 6, секция 1. Кухня-гостиная — 25,3 кв. м. Квартира передаётся без внутренних стен. Проект «С5» у Петровского парка и Динамо — городской формат высокого класса с выразительной архитектурой. До метро «Петровский парк» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>123.4</value><unit>кв. м</unit></area>
+    <kitchen-space><value>25.3</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="s5-1-10801">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Аэропорт, улица Серёгина, 5</address>
+      <latitude>55.7954746</latitude>
+      <longitude>37.5480834</longitude>
+      <metro><name>Петровский парк</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>112353160</value><currency>RUR</currency></price>
+    <rooms>4</rooms>
+    <new-flat>true</new-flat>
+    <floor>8</floor>
+    <apartment>10801</apartment>
+    <building-name>С5</building-name>
+    <building-section>корпус 1, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2030</built-year>
+    <image>https://selcdn.trendagent.ru/images/56/cf/lixdarfha648tqk2qchrzihm.png</image>
+    <image>https://selcdn.trendagent.ru/images/xq/iv/l_a7766dae745ee88834757b6533388ef9.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/3n/a2/l_743605116ae4703534a9a8845706d64f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/un/t8/l_004dec024e89d9e9639a69de02d1e788.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/zg/yk/l_34ab3a1e5af15cac99a0e07f71b971c6.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rt/w2/l_deb771a3ae78c6a3c56f751e2e2232ef.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 5Е-к.кв № 10801, 126 кв. м, 8 этаж, корпус 1, секция 1. Кухня-гостиная — 24,9 кв. м. Квартира передаётся без внутренних стен. Проект «С5» у Петровского парка и Динамо — городской формат высокого класса с выразительной архитектурой. До метро «Петровский парк» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>126</value><unit>кв. м</unit></area>
+    <kitchen-space><value>24.9</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="level-yuzhnoportovaya-10-199">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Южнопортовая улица</address>
+      <latitude>55.7051424</latitude>
+      <longitude>37.6970166</longitude>
+      <metro><name>Кожуховская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>15894762</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>16</floor>
+    <apartment>199</apartment>
+    <building-name>Level Южнопортовая</building-name>
+    <building-section>корпус 10, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/q6/9a/l_c616f124d491eda9b72a2dcc23727d9e.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/aq/aw/l_6df86a33c52dd2363733b355b1e05266.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/q2/ez/l_b240647d8286552f873ad00ad2a01aeb.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/d3/io/l_1eac0cc8c222eb459ec7f2aea67bac62.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rq/e1/l_9d81174055ce82ef5b9191affe24dfe4.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. Студия № 199, 28,7 кв. м, 16 этаж, корпус 10, секция 1. Квартира передаётся без отделки. Level Южнопортовая — современный квартал у Москвы-реки с благоустроенными дворами и собственной инфраструктурой. До метро «Кожуховская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>28.7</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="level-yuzhnoportovaya-14-19">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Южнопортовая улица</address>
+      <latitude>55.7051424</latitude>
+      <longitude>37.6970166</longitude>
+      <metro><name>Кожуховская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>16810673</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>4</floor>
+    <apartment>19</apartment>
+    <building-name>Level Южнопортовая</building-name>
+    <building-section>корпус 14, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/aq/aw/l_6df86a33c52dd2363733b355b1e05266.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/q2/ez/l_b240647d8286552f873ad00ad2a01aeb.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/d3/io/l_1eac0cc8c222eb459ec7f2aea67bac62.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rq/e1/l_9d81174055ce82ef5b9191affe24dfe4.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/q6/9a/l_c616f124d491eda9b72a2dcc23727d9e.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 2Е-к.кв № 19, 46,5 кв. м, 4 этаж, корпус 14, секция 1. Кухня-гостиная — 19,1 кв. м. Квартира передаётся без внутренних стен. Level Южнопортовая — современный квартал у Москвы-реки с благоустроенными дворами и собственной инфраструктурой. До метро «Кожуховская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>46.5</value><unit>кв. м</unit></area>
+    <kitchen-space><value>19.1</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="level-yuzhnoportovaya-13-33">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Южнопортовая улица</address>
+      <latitude>55.7051424</latitude>
+      <longitude>37.6970166</longitude>
+      <metro><name>Кожуховская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>18524417</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>5</floor>
+    <apartment>33</apartment>
+    <building-name>Level Южнопортовая</building-name>
+    <building-section>корпус 13, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/q2/ez/l_b240647d8286552f873ad00ad2a01aeb.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/d3/io/l_1eac0cc8c222eb459ec7f2aea67bac62.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rq/e1/l_9d81174055ce82ef5b9191affe24dfe4.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/q6/9a/l_c616f124d491eda9b72a2dcc23727d9e.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/aq/aw/l_6df86a33c52dd2363733b355b1e05266.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 3Е-к.кв № 33, 56,4 кв. м, 5 этаж, корпус 13, секция 1. Кухня-гостиная — 14,5 кв. м. Квартира передаётся без внутренних стен. Level Южнопортовая — современный квартал у Москвы-реки с благоустроенными дворами и собственной инфраструктурой. До метро «Кожуховская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>56.4</value><unit>кв. м</unit></area>
+    <kitchen-space><value>14.5</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="level-yuzhnoportovaya-13-72">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Южнопортовая улица</address>
+      <latitude>55.7051424</latitude>
+      <longitude>37.6970166</longitude>
+      <metro><name>Кожуховская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>18580533</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>8</floor>
+    <apartment>72</apartment>
+    <building-name>Level Южнопортовая</building-name>
+    <building-section>корпус 13, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/d3/io/l_1eac0cc8c222eb459ec7f2aea67bac62.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rq/e1/l_9d81174055ce82ef5b9191affe24dfe4.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/q6/9a/l_c616f124d491eda9b72a2dcc23727d9e.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/aq/aw/l_6df86a33c52dd2363733b355b1e05266.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/q2/ez/l_b240647d8286552f873ad00ad2a01aeb.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 3Е-к.кв № 72, 56,4 кв. м, 8 этаж, корпус 13, секция 1. Кухня-гостиная — 14,5 кв. м. Квартира передаётся без внутренних стен. Level Южнопортовая — современный квартал у Москвы-реки с благоустроенными дворами и собственной инфраструктурой. До метро «Кожуховская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>56.4</value><unit>кв. м</unit></area>
+    <kitchen-space><value>14.5</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="level-yuzhnoportovaya-1-958">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Южнопортовая улица</address>
+      <latitude>55.7051424</latitude>
+      <longitude>37.6970166</longitude>
+      <metro><name>Кожуховская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>56824574</value><currency>RUR</currency></price>
+    <rooms>4</rooms>
+    <new-flat>true</new-flat>
+    <floor>68</floor>
+    <apartment>958</apartment>
+    <building-name>Level Южнопортовая</building-name>
+    <building-section>корпус 1, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <image>https://selcdn.trendagent.ru/images/rq/e1/l_9d81174055ce82ef5b9191affe24dfe4.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/q6/9a/l_c616f124d491eda9b72a2dcc23727d9e.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/aq/aw/l_6df86a33c52dd2363733b355b1e05266.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/q2/ez/l_b240647d8286552f873ad00ad2a01aeb.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/d3/io/l_1eac0cc8c222eb459ec7f2aea67bac62.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 4-к.кв № 958, 120,6 кв. м, 68 этаж, корпус 1, секция 1. Кухня — 19,4 кв. м. Квартира передаётся без внутренних стен. Level Южнопортовая — современный квартал у Москвы-реки с благоустроенными дворами и собственной инфраструктурой. До метро «Кожуховская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>120.6</value><unit>кв. м</unit></area>
+    <kitchen-space><value>19.4</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="zilart-спарк-3-1404">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
+      <latitude>55.6972236</latitude>
+      <longitude>37.6369797</longitude>
+      <metro><name>ЗИЛ</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>16798038</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>8</floor>
+    <apartment>1404</apartment>
+    <building-name>ЗИЛАРТ</building-name>
+    <building-section>корпус СПАРК-3, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/v4/6t/l_042e06da33c1c927dcfdef1048eefcca.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/67/wv/l_a9ef23aac5b13814c7f2f5973d7bf62c.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/1z/7h/l_79524f49a41897ebaf76012f0646c779.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/m7/x5/l_da77a2c43b5489ccb1c6c2f0e358cf35.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/go/kn/l_7215a1bc53e386b9495f8fb46c3b4549.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. Студия № 1404, 17,8 кв. м, 8 этаж, корпус СПАРК-3, секция 1. Квартира передаётся без внутренних стен. Квартал «ЗИЛАРТ» рядом с набережной, парком «Тюфелева роща» и станцией ЗИЛ. До метро «ЗИЛ» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>17.8</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="zilart-спарк-3-1851">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
+      <latitude>55.6972236</latitude>
+      <longitude>37.6369797</longitude>
+      <metro><name>ЗИЛ</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>21885449</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>40</floor>
+    <apartment>1851</apartment>
+    <building-name>ЗИЛАРТ</building-name>
+    <building-section>корпус СПАРК-3, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/67/wv/l_a9ef23aac5b13814c7f2f5973d7bf62c.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/1z/7h/l_79524f49a41897ebaf76012f0646c779.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/m7/x5/l_da77a2c43b5489ccb1c6c2f0e358cf35.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/go/kn/l_7215a1bc53e386b9495f8fb46c3b4549.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/v4/6t/l_042e06da33c1c927dcfdef1048eefcca.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 2Е-к.кв № 1851, 33,5 кв. м, 40 этаж, корпус СПАРК-3, секция 1. Кухня-гостиная — 16,6 кв. м. Квартира передаётся без внутренних стен. Квартал «ЗИЛАРТ» рядом с набережной, парком «Тюфелева роща» и станцией ЗИЛ. До метро «ЗИЛ» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>33.5</value><unit>кв. м</unit></area>
+    <kitchen-space><value>16.6</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="zilart-спарк-3-1849">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
+      <latitude>55.6972236</latitude>
+      <longitude>37.6369797</longitude>
+      <metro><name>ЗИЛ</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>22243887</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>40</floor>
+    <apartment>1849</apartment>
+    <building-name>ЗИЛАРТ</building-name>
+    <building-section>корпус СПАРК-3, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/1z/7h/l_79524f49a41897ebaf76012f0646c779.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/m7/x5/l_da77a2c43b5489ccb1c6c2f0e358cf35.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/go/kn/l_7215a1bc53e386b9495f8fb46c3b4549.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/v4/6t/l_042e06da33c1c927dcfdef1048eefcca.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/67/wv/l_a9ef23aac5b13814c7f2f5973d7bf62c.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 2Е-к.кв № 1849, 35,1 кв. м, 40 этаж, корпус СПАРК-3, секция 1. Кухня-гостиная — 17,2 кв. м. Квартира передаётся без внутренних стен. Квартал «ЗИЛАРТ» рядом с набережной, парком «Тюфелева роща» и станцией ЗИЛ. До метро «ЗИЛ» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>35.1</value><unit>кв. м</unit></area>
+    <kitchen-space><value>17.2</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="zilart-спарк-1-10">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
+      <latitude>55.6972236</latitude>
+      <longitude>37.6369797</longitude>
+      <metro><name>ЗИЛ</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>32786567</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>4</floor>
+    <apartment>10</apartment>
+    <building-name>ЗИЛАРТ</building-name>
+    <building-section>корпус СПАРК-1, секция 1.1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/m7/x5/l_da77a2c43b5489ccb1c6c2f0e358cf35.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/go/kn/l_7215a1bc53e386b9495f8fb46c3b4549.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/v4/6t/l_042e06da33c1c927dcfdef1048eefcca.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/67/wv/l_a9ef23aac5b13814c7f2f5973d7bf62c.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/1z/7h/l_79524f49a41897ebaf76012f0646c779.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 3Е-к.кв № 10, 58,9 кв. м, 4 этаж, корпус СПАРК-1, секция 1.1. Кухня-гостиная — 19,5 кв. м. Квартира передаётся без внутренних стен. Квартал «ЗИЛАРТ» рядом с набережной, парком «Тюфелева роща» и станцией ЗИЛ. До метро «ЗИЛ» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>58.9</value><unit>кв. м</unit></area>
+    <kitchen-space><value>19.5</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="zilart-спарк-3-1880">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
+      <latitude>55.6972236</latitude>
+      <longitude>37.6369797</longitude>
+      <metro><name>ЗИЛ</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>85206293</value><currency>RUR</currency></price>
+    <rooms>4</rooms>
+    <new-flat>true</new-flat>
+    <floor>42</floor>
+    <apartment>1880</apartment>
+    <building-name>ЗИЛАРТ</building-name>
+    <building-section>корпус СПАРК-3, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/go/kn/l_7215a1bc53e386b9495f8fb46c3b4549.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/v4/6t/l_042e06da33c1c927dcfdef1048eefcca.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/67/wv/l_a9ef23aac5b13814c7f2f5973d7bf62c.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/1z/7h/l_79524f49a41897ebaf76012f0646c779.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/m7/x5/l_da77a2c43b5489ccb1c6c2f0e358cf35.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 5Е-к.кв № 1880, 109,7 кв. м, 42 этаж, корпус СПАРК-3, секция 1. Кухня-гостиная — 32,5 кв. м. Квартира передаётся без внутренних стен. Квартал «ЗИЛАРТ» рядом с набережной, парком «Тюфелева роща» и станцией ЗИЛ. До метро «ЗИЛ» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>109.7</value><unit>кв. м</unit></area>
+    <kitchen-space><value>32.5</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="losinoostrovskiy-park-2-3-1017891">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
+      <latitude>55.816876</latitude>
+      <longitude>37.7469389</longitude>
+      <metro><name>Бульвар Рокоссовского</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>15064490</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>8</floor>
+    <apartment>1017891</apartment>
+    <building-name>Лосиноостровский парк</building-name>
+    <building-section>корпус 2.3, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2028</built-year>
+    <image>https://selcdn.trendagent.ru/images/9d/wp/l_bbc750f98237b61dcd13603a5a18cd2f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/s5/ym/l_a6203f3c33c73b5c83e56ff149054133.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/fk/ag/l_e9f86a52bd088d5da6364d4762ec9716.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/b3/ti/l_e435583598760ce6a6084f3f6058739b.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/mt/oo/l_8ddad5a53bd76e387e60c00cbf8031f8.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. Студия № 1017891, 30,7 кв. м, 8 этаж, корпус 2.3, секция 1. Квартира передаётся без внутренних стен. «Лосиноостровский парк» — жилой квартал в Метрогородке рядом с зелёными территориями и метро. До метро «Бульвар Рокоссовского» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>30.7</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="losinoostrovskiy-park-2-3-1018020">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
+      <latitude>55.816876</latitude>
+      <longitude>37.7469389</longitude>
+      <metro><name>Бульвар Рокоссовского</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>16570980</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>11</floor>
+    <apartment>1018020</apartment>
+    <building-name>Лосиноостровский парк</building-name>
+    <building-section>корпус 2.3, секция 2</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2028</built-year>
+    <image>https://selcdn.trendagent.ru/images/s5/ym/l_a6203f3c33c73b5c83e56ff149054133.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/fk/ag/l_e9f86a52bd088d5da6364d4762ec9716.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/b3/ti/l_e435583598760ce6a6084f3f6058739b.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/mt/oo/l_8ddad5a53bd76e387e60c00cbf8031f8.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/9d/wp/l_bbc750f98237b61dcd13603a5a18cd2f.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 1-к.кв № 1018020, 31,8 кв. м, 11 этаж, корпус 2.3, секция 2. Кухня — 16,4 кв. м. Квартира передаётся без внутренних стен. «Лосиноостровский парк» — жилой квартал в Метрогородке рядом с зелёными территориями и метро. До метро «Бульвар Рокоссовского» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>31.8</value><unit>кв. м</unit></area>
+    <kitchen-space><value>16.4</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="losinoostrovskiy-park-2-3-1017966">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
+      <latitude>55.816876</latitude>
+      <longitude>37.7469389</longitude>
+      <metro><name>Бульвар Рокоссовского</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>21056340</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>3</floor>
+    <apartment>1017966</apartment>
+    <building-name>Лосиноостровский парк</building-name>
+    <building-section>корпус 2.3, секция 2</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2028</built-year>
+    <image>https://selcdn.trendagent.ru/images/fk/ag/l_e9f86a52bd088d5da6364d4762ec9716.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/b3/ti/l_e435583598760ce6a6084f3f6058739b.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/mt/oo/l_8ddad5a53bd76e387e60c00cbf8031f8.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/9d/wp/l_bbc750f98237b61dcd13603a5a18cd2f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/s5/ym/l_a6203f3c33c73b5c83e56ff149054133.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 2-к.кв № 1017966, 48,9 кв. м, 3 этаж, корпус 2.3, секция 2. Кухня — 17,9 кв. м. Квартира передаётся без внутренних стен. «Лосиноостровский парк» — жилой квартал в Метрогородке рядом с зелёными территориями и метро. До метро «Бульвар Рокоссовского» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>48.9</value><unit>кв. м</unit></area>
+    <kitchen-space><value>17.9</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="losinoostrovskiy-park-2-3-1018054">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
+      <latitude>55.816876</latitude>
+      <longitude>37.7469389</longitude>
+      <metro><name>Бульвар Рокоссовского</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>20529320</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>16</floor>
+    <apartment>1018054</apartment>
+    <building-name>Лосиноостровский парк</building-name>
+    <building-section>корпус 2.3, секция 2</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2028</built-year>
+    <image>https://selcdn.trendagent.ru/images/b3/ti/l_e435583598760ce6a6084f3f6058739b.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/mt/oo/l_8ddad5a53bd76e387e60c00cbf8031f8.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/9d/wp/l_bbc750f98237b61dcd13603a5a18cd2f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/s5/ym/l_a6203f3c33c73b5c83e56ff149054133.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/fk/ag/l_e9f86a52bd088d5da6364d4762ec9716.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 2-к.кв № 1018054, 46,7 кв. м, 16 этаж, корпус 2.3, секция 2. Кухня — 15,3 кв. м. Квартира передаётся без внутренних стен. «Лосиноостровский парк» — жилой квартал в Метрогородке рядом с зелёными территориями и метро. До метро «Бульвар Рокоссовского» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>46.7</value><unit>кв. м</unit></area>
+    <kitchen-space><value>15.3</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="losinoostrovskiy-park-2-3-1018037">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
+      <latitude>55.816876</latitude>
+      <longitude>37.7469389</longitude>
+      <metro><name>Бульвар Рокоссовского</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>26425244</value><currency>RUR</currency></price>
+    <rooms>3</rooms>
+    <new-flat>true</new-flat>
+    <floor>14</floor>
+    <apartment>1018037</apartment>
+    <building-name>Лосиноостровский парк</building-name>
+    <building-section>корпус 2.3, секция 2</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>1</ready-quarter>
+    <built-year>2028</built-year>
+    <image>https://selcdn.trendagent.ru/images/mt/oo/l_8ddad5a53bd76e387e60c00cbf8031f8.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/9d/wp/l_bbc750f98237b61dcd13603a5a18cd2f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/s5/ym/l_a6203f3c33c73b5c83e56ff149054133.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/fk/ag/l_e9f86a52bd088d5da6364d4762ec9716.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/b3/ti/l_e435583598760ce6a6084f3f6058739b.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 3-к.кв № 1018037, 75,8 кв. м, 14 этаж, корпус 2.3, секция 2. Кухня — 25,1 кв. м. Квартира передаётся без внутренних стен. «Лосиноостровский парк» — жилой квартал в Метрогородке рядом с зелёными территориями и метро. До метро «Бульвар Рокоссовского» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>75.8</value><unit>кв. м</unit></area>
+    <kitchen-space><value>25.1</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="nizhegorodskaya-1-675">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
+      <latitude>55.7282</latitude>
+      <longitude>37.7477</longitude>
+      <metro><name>Нижегородская</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>14520055</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>12</floor>
+    <apartment>675</apartment>
+    <building-name>Нижегородская от Гранель</building-name>
+    <building-section>корпус 1, секция 7</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-12-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/7u/mr/l_a8fbd1d077582cff5aa98d79d2fba7e5.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/om/pl/l_8d2ad8018dd44b7a54611fd0dff9ca55.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/ir/ms/l_6331e0a735fb46dc470c7261f8158303.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/az/7v/l_d0ff92f040d8c826d1a2908973ca921e.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/4r/gx/l_ebd9d61b81cb1c8734615527ac51aa96.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. Студия № 675, 29,74 кв. м, 12 этаж, корпус 1, секция 7. Квартира передаётся без отделки. Проект бизнес-класса «Нижегородская» расположен в развивающемся Нижегородском районе. До метро «Нижегородская» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>29.74</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="nizhegorodskaya-1-552">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
+      <latitude>55.7282</latitude>
+      <longitude>37.7477</longitude>
+      <metro><name>Нижегородская</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>16920565</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>3</floor>
+    <apartment>552</apartment>
+    <building-name>Нижегородская от Гранель</building-name>
+    <building-section>корпус 1, секция 7</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-12-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/om/pl/l_8d2ad8018dd44b7a54611fd0dff9ca55.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/ir/ms/l_6331e0a735fb46dc470c7261f8158303.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/az/7v/l_d0ff92f040d8c826d1a2908973ca921e.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/4r/gx/l_ebd9d61b81cb1c8734615527ac51aa96.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/7u/mr/l_a8fbd1d077582cff5aa98d79d2fba7e5.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 1-к.кв № 552, 34,87 кв. м, 3 этаж, корпус 1, секция 7. Кухня — 9,14 кв. м. Квартира передаётся без отделки. Проект бизнес-класса «Нижегородская» расположен в развивающемся Нижегородском районе. До метро «Нижегородская» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>34.87</value><unit>кв. м</unit></area>
+    <kitchen-space><value>9.14</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="nizhegorodskaya-1-540">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
+      <latitude>55.7282</latitude>
+      <longitude>37.7477</longitude>
+      <metro><name>Нижегородская</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>16925288</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>2</floor>
+    <apartment>540</apartment>
+    <building-name>Нижегородская от Гранель</building-name>
+    <building-section>корпус 1, секция 7</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-12-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/ir/ms/l_6331e0a735fb46dc470c7261f8158303.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/az/7v/l_d0ff92f040d8c826d1a2908973ca921e.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/4r/gx/l_ebd9d61b81cb1c8734615527ac51aa96.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/7u/mr/l_a8fbd1d077582cff5aa98d79d2fba7e5.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/om/pl/l_8d2ad8018dd44b7a54611fd0dff9ca55.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 1-к.кв № 540, 36,14 кв. м, 2 этаж, корпус 1, секция 7. Кухня — 10,77 кв. м. Квартира передаётся без отделки. Проект бизнес-класса «Нижегородская» расположен в развивающемся Нижегородском районе. До метро «Нижегородская» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>36.14</value><unit>кв. м</unit></area>
+    <kitchen-space><value>10.77</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="nizhegorodskaya-1-152">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
+      <latitude>55.7282</latitude>
+      <longitude>37.7477</longitude>
+      <metro><name>Нижегородская</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>20002262</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>3</floor>
+    <apartment>152</apartment>
+    <building-name>Нижегородская от Гранель</building-name>
+    <building-section>корпус 1, секция 5</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-12-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/az/7v/l_d0ff92f040d8c826d1a2908973ca921e.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/4r/gx/l_ebd9d61b81cb1c8734615527ac51aa96.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/7u/mr/l_a8fbd1d077582cff5aa98d79d2fba7e5.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/om/pl/l_8d2ad8018dd44b7a54611fd0dff9ca55.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/ir/ms/l_6331e0a735fb46dc470c7261f8158303.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 2-к.кв № 152, 51,46 кв. м, 3 этаж, корпус 1, секция 5. Кухня — 10,35 кв. м. Квартира передаётся без отделки. Проект бизнес-класса «Нижегородская» расположен в развивающемся Нижегородском районе. До метро «Нижегородская» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>51.46</value><unit>кв. м</unit></area>
+    <kitchen-space><value>10.35</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="nizhegorodskaya-1-14">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
+      <latitude>55.7282</latitude>
+      <longitude>37.7477</longitude>
+      <metro><name>Нижегородская</name><time-on-foot>15</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>31195459</value><currency>RUR</currency></price>
+    <rooms>3</rooms>
+    <new-flat>true</new-flat>
+    <floor>3</floor>
+    <apartment>14</apartment>
+    <building-name>Нижегородская от Гранель</building-name>
+    <building-section>корпус 1, секция 4</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-12-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/4r/gx/l_ebd9d61b81cb1c8734615527ac51aa96.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/7u/mr/l_a8fbd1d077582cff5aa98d79d2fba7e5.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/om/pl/l_8d2ad8018dd44b7a54611fd0dff9ca55.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/ir/ms/l_6331e0a735fb46dc470c7261f8158303.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/az/7v/l_d0ff92f040d8c826d1a2908973ca921e.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 3-к.кв № 14, 80,67 кв. м, 3 этаж, корпус 1, секция 4. Кухня — 15,07 кв. м. Квартира передаётся без отделки. Проект бизнес-класса «Нижегородская» расположен в развивающемся Нижегородском районе. До метро «Нижегородская» около 15 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>80.67</value><unit>кв. м</unit></area>
+    <kitchen-space><value>15.07</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="admiral-1-1-477">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Шоссейная улица, 4А</address>
+      <latitude>55.6979852</latitude>
+      <longitude>37.7241993</longitude>
+      <metro><name>Печатники</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>16834427</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>16</floor>
+    <apartment>477</apartment>
+    <building-name>Адмирал</building-name>
+    <building-section>корпус 1.1, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-09-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/66/no/l_86346322611adb0674c3ad65410544ef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/xo/cp/l_ca6525d91d74da17c9d3d4c7738ea283.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/hd/id/l_f784ec9ed32bc7bac29abf9ac3b67fef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/ep/mt/l_c9c6144ca67b826ef57c3aab0a0c1585.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/2o/59/l_0e32a8299f34508a3947705c0b575443.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. Студия № 477, 28,5 кв. м, 16 этаж, корпус 1.1, секция 1. Квартира передаётся без отделки. Квартал бизнес-класса «Адмирал» находится рядом с метро «Печатники» и городской инфраструктурой. До метро «Печатники» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>28.5</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="admiral-1-1-296">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Шоссейная улица, 4А</address>
+      <latitude>55.6979852</latitude>
+      <longitude>37.7241993</longitude>
+      <metro><name>Печатники</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>20151411</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>3</floor>
+    <apartment>296</apartment>
+    <building-name>Адмирал</building-name>
+    <building-section>корпус 1.1, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-09-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/xo/cp/l_ca6525d91d74da17c9d3d4c7738ea283.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/hd/id/l_f784ec9ed32bc7bac29abf9ac3b67fef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/ep/mt/l_c9c6144ca67b826ef57c3aab0a0c1585.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/2o/59/l_0e32a8299f34508a3947705c0b575443.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/66/no/l_86346322611adb0674c3ad65410544ef.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 1-к.кв № 296, 38,7 кв. м, 3 этаж, корпус 1.1, секция 1. Кухня — 14,3 кв. м. Квартира передаётся без отделки. Квартал бизнес-класса «Адмирал» находится рядом с метро «Печатники» и городской инфраструктурой. До метро «Печатники» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>38.7</value><unit>кв. м</unit></area>
+    <kitchen-space><value>14.3</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="admiral-1-1-459">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Шоссейная улица, 4А</address>
+      <latitude>55.6979852</latitude>
+      <longitude>37.7241993</longitude>
+      <metro><name>Печатники</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>21690798</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>15</floor>
+    <apartment>459</apartment>
+    <building-name>Адмирал</building-name>
+    <building-section>корпус 1.1, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-09-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/hd/id/l_f784ec9ed32bc7bac29abf9ac3b67fef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/ep/mt/l_c9c6144ca67b826ef57c3aab0a0c1585.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/2o/59/l_0e32a8299f34508a3947705c0b575443.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/66/no/l_86346322611adb0674c3ad65410544ef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/xo/cp/l_ca6525d91d74da17c9d3d4c7738ea283.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 2Е-к.кв № 459, 41,9 кв. м, 15 этаж, корпус 1.1, секция 1. Кухня-гостиная — 15,5 кв. м. Квартира передаётся без отделки. Квартал бизнес-класса «Адмирал» находится рядом с метро «Печатники» и городской инфраструктурой. До метро «Печатники» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>41.9</value><unit>кв. м</unit></area>
+    <kitchen-space><value>15.5</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="admiral-1-1-350">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Шоссейная улица, 4А</address>
+      <latitude>55.6979852</latitude>
+      <longitude>37.7241993</longitude>
+      <metro><name>Печатники</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>27981838</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>7</floor>
+    <apartment>350</apartment>
+    <building-name>Адмирал</building-name>
+    <building-section>корпус 1.1, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-09-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/ep/mt/l_c9c6144ca67b826ef57c3aab0a0c1585.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/2o/59/l_0e32a8299f34508a3947705c0b575443.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/66/no/l_86346322611adb0674c3ad65410544ef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/xo/cp/l_ca6525d91d74da17c9d3d4c7738ea283.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/hd/id/l_f784ec9ed32bc7bac29abf9ac3b67fef.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 3Е-к.кв № 350, 62,6 кв. м, 7 этаж, корпус 1.1, секция 1. Кухня-гостиная — 15 кв. м. Квартира передаётся без отделки. Квартал бизнес-класса «Адмирал» находится рядом с метро «Печатники» и городской инфраструктурой. До метро «Печатники» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>62.6</value><unit>кв. м</unit></area>
+    <kitchen-space><value>15</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="admiral-1-4-190">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Печатники, Шоссейная улица, 4А</address>
+      <latitude>55.6979852</latitude>
+      <longitude>37.7241993</longitude>
+      <metro><name>Печатники</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>36008230</value><currency>RUR</currency></price>
+    <rooms>3</rooms>
+    <new-flat>true</new-flat>
+    <floor>4</floor>
+    <apartment>190</apartment>
+    <building-name>Адмирал</building-name>
+    <building-section>корпус 1.4, секция 3</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2028-09-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/2o/59/l_0e32a8299f34508a3947705c0b575443.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/66/no/l_86346322611adb0674c3ad65410544ef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/xo/cp/l_ca6525d91d74da17c9d3d4c7738ea283.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/hd/id/l_f784ec9ed32bc7bac29abf9ac3b67fef.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/ep/mt/l_c9c6144ca67b826ef57c3aab0a0c1585.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 3-к.кв № 190, 73,7 кв. м, 4 этаж, корпус 1.4, секция 3. Кухня — 13,2 кв. м. Квартира передаётся без отделки. Квартал бизнес-класса «Адмирал» находится рядом с метро «Печатники» и городской инфраструктурой. До метро «Печатники» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>73.7</value><unit>кв. м</unit></area>
+    <kitchen-space><value>13.2</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="ice-towers-i-171">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
+      <latitude>55.6658667</latitude>
+      <longitude>37.5037149</longitude>
+      <metro><name>Новаторская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>29153599</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>15</floor>
+    <apartment>171</apartment>
+    <building-name>ICE Towers</building-name>
+    <building-section>корпус I, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2029-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/k1/6b/l_ce6e1b7a4f71e0c94b36feb8ed551e94.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/fv/vf/l_20cb1b232f2c42757609a81940c3f3f2.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/k7/10/l_00e9540b37d99af56dc525cab46f3071.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rv/7k/l_6fc9cf43f120f69438642ef1bf608780.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/7c/al/l_0907d303c6da79459580dc70ee3fb1a2.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. 2Е-к.кв № 171, 36,7 кв. м, 15 этаж, корпус I, секция 1. Кухня-гостиная — 17,2 кв. м. Квартира передаётся без внутренних стен. ICE Towers — высотный жилой проект у метро «Новаторская» с выразительной архитектурой и видовыми этажами. До метро «Новаторская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>36.7</value><unit>кв. м</unit></area>
+    <kitchen-space><value>17.2</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="ice-towers-i-174">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
+      <latitude>55.6658667</latitude>
+      <longitude>37.5037149</longitude>
+      <metro><name>Новаторская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>29655648</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>15</floor>
+    <apartment>174</apartment>
+    <building-name>ICE Towers</building-name>
+    <building-section>корпус I, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2029-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/fv/vf/l_20cb1b232f2c42757609a81940c3f3f2.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/k7/10/l_00e9540b37d99af56dc525cab46f3071.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rv/7k/l_6fc9cf43f120f69438642ef1bf608780.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/7c/al/l_0907d303c6da79459580dc70ee3fb1a2.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/k1/6b/l_ce6e1b7a4f71e0c94b36feb8ed551e94.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 2Е-к.кв № 174, 40,7 кв. м, 15 этаж, корпус I, секция 1. Кухня-гостиная — 18,9 кв. м. Квартира передаётся без внутренних стен. ICE Towers — высотный жилой проект у метро «Новаторская» с выразительной архитектурой и видовыми этажами. До метро «Новаторская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>40.7</value><unit>кв. м</unit></area>
+    <kitchen-space><value>18.9</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="ice-towers-i-247">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
+      <latitude>55.6658667</latitude>
+      <longitude>37.5037149</longitude>
+      <metro><name>Новаторская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>41694374</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>21</floor>
+    <apartment>247</apartment>
+    <building-name>ICE Towers</building-name>
+    <building-section>корпус I, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2029-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/k7/10/l_00e9540b37d99af56dc525cab46f3071.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rv/7k/l_6fc9cf43f120f69438642ef1bf608780.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/7c/al/l_0907d303c6da79459580dc70ee3fb1a2.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/k1/6b/l_ce6e1b7a4f71e0c94b36feb8ed551e94.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/fv/vf/l_20cb1b232f2c42757609a81940c3f3f2.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 3Е-к.кв № 247, 57,5 кв. м, 21 этаж, корпус I, секция 1. Кухня-гостиная — 16,1 кв. м. Квартира передаётся без внутренних стен. ICE Towers — высотный жилой проект у метро «Новаторская» с выразительной архитектурой и видовыми этажами. До метро «Новаторская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>57.5</value><unit>кв. м</unit></area>
+    <kitchen-space><value>16.1</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="ice-towers-i-258">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
+      <latitude>55.6658667</latitude>
+      <longitude>37.5037149</longitude>
+      <metro><name>Новаторская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>41923214</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>22</floor>
+    <apartment>258</apartment>
+    <building-name>ICE Towers</building-name>
+    <building-section>корпус I, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2029-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/rv/7k/l_6fc9cf43f120f69438642ef1bf608780.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/7c/al/l_0907d303c6da79459580dc70ee3fb1a2.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/k1/6b/l_ce6e1b7a4f71e0c94b36feb8ed551e94.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/fv/vf/l_20cb1b232f2c42757609a81940c3f3f2.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/k7/10/l_00e9540b37d99af56dc525cab46f3071.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 3Е-к.кв № 258, 57,5 кв. м, 22 этаж, корпус I, секция 1. Кухня-гостиная — 16,1 кв. м. Квартира передаётся без внутренних стен. ICE Towers — высотный жилой проект у метро «Новаторская» с выразительной архитектурой и видовыми этажами. До метро «Новаторская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>57.5</value><unit>кв. м</unit></area>
+    <kitchen-space><value>16.1</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="ice-towers-i-177">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
+      <latitude>55.6658667</latitude>
+      <longitude>37.5037149</longitude>
+      <metro><name>Новаторская</name><time-on-foot>10</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>62983470</value><currency>RUR</currency></price>
+    <rooms>3</rooms>
+    <new-flat>true</new-flat>
+    <floor>15</floor>
+    <apartment>177</apartment>
+    <building-name>ICE Towers</building-name>
+    <building-section>корпус I, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2028</built-year>
+    <key-handover-date>2029-06-30</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/7c/al/l_0907d303c6da79459580dc70ee3fb1a2.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/k1/6b/l_ce6e1b7a4f71e0c94b36feb8ed551e94.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/fv/vf/l_20cb1b232f2c42757609a81940c3f3f2.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/k7/10/l_00e9540b37d99af56dc525cab46f3071.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/rv/7k/l_6fc9cf43f120f69438642ef1bf608780.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 4Е-к.кв № 177, 87,2 кв. м, 15 этаж, корпус I, секция 1. Кухня-гостиная — 23,6 кв. м. Квартира передаётся без внутренних стен. ICE Towers — высотный жилой проект у метро «Новаторская» с выразительной архитектурой и видовыми этажами. До метро «Новаторская» около 10 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>87.2</value><unit>кв. м</unit></area>
+    <kitchen-space><value>23.6</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="kinetik-2-151">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
+      <latitude>55.8585847</latitude>
+      <longitude>37.5564829</longitude>
+      <metro><name>Верхние Лихоборы</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>16740909</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>5</floor>
+    <apartment>151</apartment>
+    <building-name>KINETIK. Резиденции на Дмитровском</building-name>
+    <building-section>корпус 2, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2029</built-year>
+    <key-handover-date>2030-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/ki/bs/1qu2f6kiheysxsgn6y34a3xd.png</image>
+    <image>https://selcdn.trendagent.ru/images/tk/p0/l_864c887965b22a5df0c5cec6a98fdd64.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/u5/pt/l_8816a7405665fc69d01345de63cd7e92.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/32/3k/l_5e2f9749556c1adf6a0daf4abc35e4aa.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/4i/y3/l_0c786d5954100b47bfc263025fa700bb.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/dq/nf/l_f04c8daa2cf5143f95f4ed6c15d3052b.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. Студия № 151, 35,2 кв. м, 5 этаж, корпус 2, секция 1. Квартира передаётся без внутренних стен. KINETIK — резиденции на Дмитровском шоссе, в нескольких минутах пешком от метро «Верхние Лихоборы». До метро «Верхние Лихоборы» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>35.2</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="kinetik-2-1710">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
+      <latitude>55.8585847</latitude>
+      <longitude>37.5564829</longitude>
+      <metro><name>Верхние Лихоборы</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>21650141</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>7</floor>
+    <apartment>1710</apartment>
+    <building-name>KINETIK. Резиденции на Дмитровском</building-name>
+    <building-section>корпус 2, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2029</built-year>
+    <key-handover-date>2030-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/rh/3u/010k03drmxwi97eq5gq0nv27.png</image>
+    <image>https://selcdn.trendagent.ru/images/u5/pt/l_8816a7405665fc69d01345de63cd7e92.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/32/3k/l_5e2f9749556c1adf6a0daf4abc35e4aa.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/4i/y3/l_0c786d5954100b47bfc263025fa700bb.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/dq/nf/l_f04c8daa2cf5143f95f4ed6c15d3052b.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/tk/p0/l_864c887965b22a5df0c5cec6a98fdd64.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 2Е-к.кв № 1710, 41,75 кв. м, 7 этаж, корпус 2, секция 1. Кухня-гостиная — 15,27 кв. м. Квартира передаётся без внутренних стен. KINETIK — резиденции на Дмитровском шоссе, в нескольких минутах пешком от метро «Верхние Лихоборы». До метро «Верхние Лихоборы» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>41.75</value><unit>кв. м</unit></area>
+    <kitchen-space><value>15.27</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="kinetik-2-161">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
+      <latitude>55.8585847</latitude>
+      <longitude>37.5564829</longitude>
+      <metro><name>Верхние Лихоборы</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>19925687</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>6</floor>
+    <apartment>161</apartment>
+    <building-name>KINETIK. Резиденции на Дмитровском</building-name>
+    <building-section>корпус 2, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2029</built-year>
+    <key-handover-date>2030-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/v6/b5/vilh7rh688hwwlz7yy0nyuzo.png</image>
+    <image>https://selcdn.trendagent.ru/images/32/3k/l_5e2f9749556c1adf6a0daf4abc35e4aa.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/4i/y3/l_0c786d5954100b47bfc263025fa700bb.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/dq/nf/l_f04c8daa2cf5143f95f4ed6c15d3052b.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/tk/p0/l_864c887965b22a5df0c5cec6a98fdd64.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/u5/pt/l_8816a7405665fc69d01345de63cd7e92.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. Студия № 161, 41,46 кв. м, 6 этаж, корпус 2, секция 1. Квартира передаётся без внутренних стен. KINETIK — резиденции на Дмитровском шоссе, в нескольких минутах пешком от метро «Верхние Лихоборы». До метро «Верхние Лихоборы» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>41.46</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="kinetik-2-1133">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
+      <latitude>55.8585847</latitude>
+      <longitude>37.5564829</longitude>
+      <metro><name>Верхние Лихоборы</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>38482105</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>13</floor>
+    <apartment>1133</apartment>
+    <building-name>KINETIK. Резиденции на Дмитровском</building-name>
+    <building-section>корпус 2, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2029</built-year>
+    <key-handover-date>2030-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/rs/pm/x2h37b9tnq4mokkvr5ip09t5.png</image>
+    <image>https://selcdn.trendagent.ru/images/4i/y3/l_0c786d5954100b47bfc263025fa700bb.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/dq/nf/l_f04c8daa2cf5143f95f4ed6c15d3052b.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/tk/p0/l_864c887965b22a5df0c5cec6a98fdd64.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/u5/pt/l_8816a7405665fc69d01345de63cd7e92.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/32/3k/l_5e2f9749556c1adf6a0daf4abc35e4aa.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 3Е-к.кв № 1133, 81,24 кв. м, 13 этаж, корпус 2, секция 1. Кухня-гостиная — 27,45 кв. м. Квартира передаётся без внутренних стен. KINETIK — резиденции на Дмитровском шоссе, в нескольких минутах пешком от метро «Верхние Лихоборы». До метро «Верхние Лихоборы» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>81.24</value><unit>кв. м</unit></area>
+    <kitchen-space><value>27.45</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="kinetik-2-1203">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
+      <latitude>55.8585847</latitude>
+      <longitude>37.5564829</longitude>
+      <metro><name>Верхние Лихоборы</name><time-on-foot>5</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>44348182</value><currency>RUR</currency></price>
+    <rooms>3</rooms>
+    <new-flat>true</new-flat>
+    <floor>20</floor>
+    <apartment>1203</apartment>
+    <building-name>KINETIK. Резиденции на Дмитровском</building-name>
+    <building-section>корпус 2, секция 1</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2029</built-year>
+    <key-handover-date>2030-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/xr/lx/nxn1f5a5mkrs6f46qedyf9pz.png</image>
+    <image>https://selcdn.trendagent.ru/images/dq/nf/l_f04c8daa2cf5143f95f4ed6c15d3052b.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/tk/p0/l_864c887965b22a5df0c5cec6a98fdd64.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/u5/pt/l_8816a7405665fc69d01345de63cd7e92.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/32/3k/l_5e2f9749556c1adf6a0daf4abc35e4aa.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/4i/y3/l_0c786d5954100b47bfc263025fa700bb.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 4Е-к.кв № 1203, 89,84 кв. м, 20 этаж, корпус 2, секция 1. Кухня-гостиная — 33,88 кв. м. Квартира передаётся без внутренних стен. KINETIK — резиденции на Дмитровском шоссе, в нескольких минутах пешком от метро «Верхние Лихоборы». До метро «Верхние Лихоборы» около 5 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>89.84</value><unit>кв. м</unit></area>
+    <kitchen-space><value>33.88</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="moskvoreche-1-2-964503">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
+      <latitude>55.6453262</latitude>
+      <longitude>37.6411365</longitude>
+      <metro><name>Каширская</name><time-on-foot>20</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>13988840</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <studio>true</studio>
+    <new-flat>true</new-flat>
+    <floor>16</floor>
+    <apartment>964503</apartment>
+    <building-name>Москворечье</building-name>
+    <building-section>корпус 1.2, секция 3</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/n6/gr/l_5dd981d9817b4132e07279083ebef04c.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/09/ev/l_6d6aeaad11817aebf683b25adaafcc52.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/g1/hm/l_dbd9f4ed3d0cf074cc64bab7dff7642f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/hs/qy/l_3eb40687c56386baa240cfcdb89ee48a.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/2u/2b/l_47057e7b48590adef7392bb393786a5a.jpg</image>
+    <description>Входной билет в проект: один из самых доступных вариантов в текущей подборке. Студия № 964503, 19,1 кв. м, 16 этаж, корпус 1.2, секция 3. Предусмотрена чистовая отделка. «Москворечье» — новый жилой квартал в районе Москворечье-Сабурово с готовой городской средой вокруг. До метро «Каширская» около 20 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>19.1</value><unit>кв. м</unit></area>
+  </offer>
+
+  <offer internal-id="moskvoreche-1-3-984996">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
+      <latitude>55.6453262</latitude>
+      <longitude>37.6411365</longitude>
+      <metro><name>Каширская</name><time-on-foot>20</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>18374400</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>37</floor>
+    <apartment>984996</apartment>
+    <building-name>Москворечье</building-name>
+    <building-section>корпус 1.3, секция 4</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/09/ev/l_6d6aeaad11817aebf683b25adaafcc52.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/g1/hm/l_dbd9f4ed3d0cf074cc64bab7dff7642f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/hs/qy/l_3eb40687c56386baa240cfcdb89ee48a.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/2u/2b/l_47057e7b48590adef7392bb393786a5a.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/n6/gr/l_5dd981d9817b4132e07279083ebef04c.jpg</image>
+    <description>Сбалансированный вариант по бюджету, площади и планировке. 1-к.кв № 984996, 32 кв. м, 37 этаж, корпус 1.3, секция 4. Кухня — 14,5 кв. м. Предусмотрена чистовая отделка. «Москворечье» — новый жилой квартал в районе Москворечье-Сабурово с готовой городской средой вокруг. До метро «Каширская» около 20 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>32</value><unit>кв. м</unit></area>
+    <kitchen-space><value>14.5</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="moskvoreche-1-2-964326">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
+      <latitude>55.6453262</latitude>
+      <longitude>37.6411365</longitude>
+      <metro><name>Каширская</name><time-on-foot>20</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>19497960</value><currency>RUR</currency></price>
+    <rooms>1</rooms>
+    <new-flat>true</new-flat>
+    <floor>1</floor>
+    <apartment>964326</apartment>
+    <building-name>Москворечье</building-name>
+    <building-section>корпус 1.2, секция 3</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/g1/hm/l_dbd9f4ed3d0cf074cc64bab7dff7642f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/hs/qy/l_3eb40687c56386baa240cfcdb89ee48a.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/2u/2b/l_47057e7b48590adef7392bb393786a5a.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/n6/gr/l_5dd981d9817b4132e07279083ebef04c.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/09/ev/l_6d6aeaad11817aebf683b25adaafcc52.jpg</image>
+    <description>Рациональный выбор: больше полезной площади относительно соседних по цене предложений. 2Е-к.кв № 964326, 36,9 кв. м, 1 этаж, корпус 1.2, секция 3. Кухня-гостиная — 15,3 кв. м. Предусмотрена чистовая отделка. «Москворечье» — новый жилой квартал в районе Москворечье-Сабурово с готовой городской средой вокруг. До метро «Каширская» около 20 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>36.9</value><unit>кв. м</unit></area>
+    <kitchen-space><value>15.3</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="moskvoreche-1-2-964328">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
+      <latitude>55.6453262</latitude>
+      <longitude>37.6411365</longitude>
+      <metro><name>Каширская</name><time-on-foot>20</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>28780560</value><currency>RUR</currency></price>
+    <rooms>2</rooms>
+    <new-flat>true</new-flat>
+    <floor>2</floor>
+    <apartment>964328</apartment>
+    <building-name>Москворечье</building-name>
+    <building-section>корпус 1.2, секция 3</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/hs/qy/l_3eb40687c56386baa240cfcdb89ee48a.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/2u/2b/l_47057e7b48590adef7392bb393786a5a.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/n6/gr/l_5dd981d9817b4132e07279083ebef04c.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/09/ev/l_6d6aeaad11817aebf683b25adaafcc52.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/g1/hm/l_dbd9f4ed3d0cf074cc64bab7dff7642f.jpg</image>
+    <description>Семейный формат с удобным зонированием и полноценной кухней или кухней-гостиной. 3Е-к.кв № 964328, 56,3 кв. м, 2 этаж, корпус 1.2, секция 3. Кухня-гостиная — 21,6 кв. м. Предусмотрена чистовая отделка. «Москворечье» — новый жилой квартал в районе Москворечье-Сабурово с готовой городской средой вокруг. До метро «Каширская» около 20 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>56.3</value><unit>кв. м</unit></area>
+    <kitchen-space><value>21.6</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+
+  <offer internal-id="moskvoreche-1-3-984887">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <location>
+      <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
+      <latitude>55.6453262</latitude>
+      <longitude>37.6411365</longitude>
+      <metro><name>Каширская</name><time-on-foot>20</time-on-foot></metro>
+    </location>
+    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price><value>34700040</value><currency>RUR</currency></price>
+    <rooms>3</rooms>
+    <new-flat>true</new-flat>
+    <floor>3</floor>
+    <apartment>984887</apartment>
+    <building-name>Москворечье</building-name>
+    <building-section>корпус 1.3, секция 4</building-section>
+    <building-state>unfinished</building-state>
+    <ready-quarter>4</ready-quarter>
+    <built-year>2027</built-year>
+    <key-handover-date>2028-03-31</key-handover-date>
+    <image>https://selcdn.trendagent.ru/images/2u/2b/l_47057e7b48590adef7392bb393786a5a.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/n6/gr/l_5dd981d9817b4132e07279083ebef04c.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/09/ev/l_6d6aeaad11817aebf683b25adaafcc52.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/g1/hm/l_dbd9f4ed3d0cf074cc64bab7dff7642f.jpg</image>
+    <image>https://selcdn.trendagent.ru/images/hs/qy/l_3eb40687c56386baa240cfcdb89ee48a.jpg</image>
+    <description>Верхний ценовой сегмент проекта: просторный формат для покупателей с повышенными требованиями. 3-к.кв № 984887, 67,8 кв. м, 3 этаж, корпус 1.3, секция 4. Кухня — 20,9 кв. м. Предусмотрена чистовая отделка. «Москворечье» — новый жилой квартал в районе Москворечье-Сабурово с готовой городской средой вокруг. До метро «Каширская» около 20 минут пешком. Цена указана для варианта со 100% оплатой и может измениться. Актуальные условия покупки и наличие уточняйте.</description>
+    <area><value>67.8</value><unit>кв. м</unit></area>
+    <kitchen-space><value>20.9</value><unit>кв. м</unit></kitchen-space>
+  </offer>
+</realty-feed>
