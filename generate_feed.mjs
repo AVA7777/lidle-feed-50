@@ -30,7 +30,7 @@ function roomsFor(type) {
 }
 
 function internalId(lot) {
-  return `${lot.project}-${String(lot.building).replaceAll('.', '-')}-${String(lot.flat).replaceAll(/[^0-9A-Za-zА-Яа-я-]/g, '-')}`.toLowerCase();
+  return `${lot.project}-${String(lot.flat).replaceAll(/[^0-9A-Za-z-]/g, '-')}`.toLowerCase();
 }
 
 function description(lot, p) {

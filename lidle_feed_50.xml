@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-09-14T01:46:09+03:00</generation-date>
-  <offer internal-id="luchi-5-21">
+  <generation-date>2026-09-14T01:49:47+03:00</generation-date>
+  <offer internal-id="luchi-21">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Солнцево, Производственная улица, 12</address>
       <latitude>55.6446722</latitude>
@@ -33,11 +33,11 @@
     <area><value>21.6</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="luchi-8-1935">
+  <offer internal-id="luchi-1935">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Солнцево, Производственная улица, 12</address>
       <latitude>55.6446722</latitude>
@@ -65,11 +65,11 @@
     <kitchen-space><value>19.4</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="luchi-8-1540">
+  <offer internal-id="luchi-1540">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Солнцево, Производственная улица, 12</address>
       <latitude>55.6446722</latitude>
@@ -97,11 +97,11 @@
     <kitchen-space><value>12.5</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="luchi-8-1462">
+  <offer internal-id="luchi-1462">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Солнцево, Производственная улица, 12</address>
       <latitude>55.6446722</latitude>
@@ -129,11 +129,11 @@
     <kitchen-space><value>10.6</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="luchi-1-2-824">
+  <offer internal-id="luchi-824">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Солнцево, Производственная улица, 12</address>
       <latitude>55.6446722</latitude>
@@ -161,11 +161,11 @@
     <kitchen-space><value>18.5</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="s5-6-60305">
+  <offer internal-id="s5-60305">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Аэропорт, улица Серёгина, 5</address>
       <latitude>55.7954746</latitude>
@@ -195,11 +195,11 @@
     <kitchen-space><value>8.4</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="s5-4-40204">
+  <offer internal-id="s5-40204">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Аэропорт, улица Серёгина, 5</address>
       <latitude>55.7954746</latitude>
@@ -229,11 +229,11 @@
     <kitchen-space><value>27.1</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="s5-6-60202">
+  <offer internal-id="s5-60202">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Аэропорт, улица Серёгина, 5</address>
       <latitude>55.7954746</latitude>
@@ -263,11 +263,11 @@
     <kitchen-space><value>8.6</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="s5-6-64004">
+  <offer internal-id="s5-64004">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Аэропорт, улица Серёгина, 5</address>
       <latitude>55.7954746</latitude>
@@ -297,11 +297,11 @@
     <kitchen-space><value>25.3</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="s5-1-10801">
+  <offer internal-id="s5-10801">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Аэропорт, улица Серёгина, 5</address>
       <latitude>55.7954746</latitude>
@@ -331,11 +331,11 @@
     <kitchen-space><value>24.9</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="level-yuzhnoportovaya-10-199">
+  <offer internal-id="level-yuzhnoportovaya-199">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Южнопортовая улица</address>
       <latitude>55.7051424</latitude>
@@ -362,11 +362,11 @@
     <area><value>28.7</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="level-yuzhnoportovaya-14-19">
+  <offer internal-id="level-yuzhnoportovaya-19">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Южнопортовая улица</address>
       <latitude>55.7051424</latitude>
@@ -393,11 +393,11 @@
     <kitchen-space><value>19.1</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="level-yuzhnoportovaya-13-33">
+  <offer internal-id="level-yuzhnoportovaya-33">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Южнопортовая улица</address>
       <latitude>55.7051424</latitude>
@@ -424,11 +424,11 @@
     <kitchen-space><value>14.5</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="level-yuzhnoportovaya-13-72">
+  <offer internal-id="level-yuzhnoportovaya-72">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Южнопортовая улица</address>
       <latitude>55.7051424</latitude>
@@ -455,11 +455,11 @@
     <kitchen-space><value>14.5</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="level-yuzhnoportovaya-1-958">
+  <offer internal-id="level-yuzhnoportovaya-958">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Южнопортовая улица</address>
       <latitude>55.7051424</latitude>
@@ -486,11 +486,11 @@
     <kitchen-space><value>19.4</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="zilart-спарк-3-1404">
+  <offer internal-id="zilart-1404">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
       <latitude>55.6972236</latitude>
@@ -520,11 +520,11 @@
     <area><value>17.8</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="zilart-спарк-3-1851">
+  <offer internal-id="zilart-1851">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
       <latitude>55.6972236</latitude>
@@ -554,11 +554,11 @@
     <kitchen-space><value>16.6</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="zilart-спарк-3-1849">
+  <offer internal-id="zilart-1849">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
       <latitude>55.6972236</latitude>
@@ -588,11 +588,11 @@
     <kitchen-space><value>17.2</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="zilart-спарк-1-10">
+  <offer internal-id="zilart-10">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
       <latitude>55.6972236</latitude>
@@ -622,11 +622,11 @@
     <kitchen-space><value>19.5</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="zilart-спарк-3-1880">
+  <offer internal-id="zilart-1880">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Даниловский район, Автозаводская улица, владение 23</address>
       <latitude>55.6972236</latitude>
@@ -656,11 +656,11 @@
     <kitchen-space><value>32.5</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="losinoostrovskiy-park-2-3-1017891">
+  <offer internal-id="losinoostrovskiy-park-1017891">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
       <latitude>55.816876</latitude>
@@ -689,11 +689,11 @@
     <area><value>30.7</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="losinoostrovskiy-park-2-3-1018020">
+  <offer internal-id="losinoostrovskiy-park-1018020">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
       <latitude>55.816876</latitude>
@@ -722,11 +722,11 @@
     <kitchen-space><value>16.4</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="losinoostrovskiy-park-2-3-1017966">
+  <offer internal-id="losinoostrovskiy-park-1017966">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
       <latitude>55.816876</latitude>
@@ -755,11 +755,11 @@
     <kitchen-space><value>17.9</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="losinoostrovskiy-park-2-3-1018054">
+  <offer internal-id="losinoostrovskiy-park-1018054">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
       <latitude>55.816876</latitude>
@@ -788,11 +788,11 @@
     <kitchen-space><value>15.3</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="losinoostrovskiy-park-2-3-1018037">
+  <offer internal-id="losinoostrovskiy-park-1018037">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Метрогородок, Открытое шоссе, корпус 2.3</address>
       <latitude>55.816876</latitude>
@@ -821,11 +821,11 @@
     <kitchen-space><value>25.1</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="nizhegorodskaya-1-675">
+  <offer internal-id="nizhegorodskaya-675">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
       <latitude>55.7282</latitude>
@@ -855,11 +855,11 @@
     <area><value>29.74</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="nizhegorodskaya-1-552">
+  <offer internal-id="nizhegorodskaya-552">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
       <latitude>55.7282</latitude>
@@ -889,11 +889,11 @@
     <kitchen-space><value>9.14</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="nizhegorodskaya-1-540">
+  <offer internal-id="nizhegorodskaya-540">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
       <latitude>55.7282</latitude>
@@ -923,11 +923,11 @@
     <kitchen-space><value>10.77</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="nizhegorodskaya-1-152">
+  <offer internal-id="nizhegorodskaya-152">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
       <latitude>55.7282</latitude>
@@ -957,11 +957,11 @@
     <kitchen-space><value>10.35</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="nizhegorodskaya-1-14">
+  <offer internal-id="nizhegorodskaya-14">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, Нижегородский район, Газгольдерная улица, владение 10А</address>
       <latitude>55.7282</latitude>
@@ -991,11 +991,11 @@
     <kitchen-space><value>15.07</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="admiral-1-1-477">
+  <offer internal-id="admiral-477">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Шоссейная улица, 4А</address>
       <latitude>55.6979852</latitude>
@@ -1025,11 +1025,11 @@
     <area><value>28.5</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="admiral-1-1-296">
+  <offer internal-id="admiral-296">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Шоссейная улица, 4А</address>
       <latitude>55.6979852</latitude>
@@ -1059,11 +1059,11 @@
     <kitchen-space><value>14.3</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="admiral-1-1-459">
+  <offer internal-id="admiral-459">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Шоссейная улица, 4А</address>
       <latitude>55.6979852</latitude>
@@ -1093,11 +1093,11 @@
     <kitchen-space><value>15.5</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="admiral-1-1-350">
+  <offer internal-id="admiral-350">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Шоссейная улица, 4А</address>
       <latitude>55.6979852</latitude>
@@ -1127,11 +1127,11 @@
     <kitchen-space><value>15</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="admiral-1-4-190">
+  <offer internal-id="admiral-190">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Печатники, Шоссейная улица, 4А</address>
       <latitude>55.6979852</latitude>
@@ -1161,11 +1161,11 @@
     <kitchen-space><value>13.2</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="ice-towers-i-171">
+  <offer internal-id="ice-towers-171">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
       <latitude>55.6658667</latitude>
@@ -1195,11 +1195,11 @@
     <kitchen-space><value>17.2</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="ice-towers-i-174">
+  <offer internal-id="ice-towers-174">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
       <latitude>55.6658667</latitude>
@@ -1229,11 +1229,11 @@
     <kitchen-space><value>18.9</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="ice-towers-i-247">
+  <offer internal-id="ice-towers-247">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
       <latitude>55.6658667</latitude>
@@ -1263,11 +1263,11 @@
     <kitchen-space><value>16.1</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="ice-towers-i-258">
+  <offer internal-id="ice-towers-258">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
       <latitude>55.6658667</latitude>
@@ -1297,11 +1297,11 @@
     <kitchen-space><value>16.1</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="ice-towers-i-177">
+  <offer internal-id="ice-towers-177">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Проспект Вернадского, улица Лобачевского, 3</address>
       <latitude>55.6658667</latitude>
@@ -1331,11 +1331,11 @@
     <kitchen-space><value>23.6</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="kinetik-2-151">
+  <offer internal-id="kinetik-151">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
       <latitude>55.8585847</latitude>
@@ -1366,11 +1366,11 @@
     <area><value>35.2</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="kinetik-2-1710">
+  <offer internal-id="kinetik-1710">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
       <latitude>55.8585847</latitude>
@@ -1401,11 +1401,11 @@
     <kitchen-space><value>15.27</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="kinetik-2-161">
+  <offer internal-id="kinetik-161">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
       <latitude>55.8585847</latitude>
@@ -1436,11 +1436,11 @@
     <area><value>41.46</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="kinetik-2-1133">
+  <offer internal-id="kinetik-1133">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
       <latitude>55.8585847</latitude>
@@ -1471,11 +1471,11 @@
     <kitchen-space><value>27.45</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="kinetik-2-1203">
+  <offer internal-id="kinetik-1203">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Западное Дегунино, Дмитровское шоссе, 75/77</address>
       <latitude>55.8585847</latitude>
@@ -1506,11 +1506,11 @@
     <kitchen-space><value>33.88</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="moskvoreche-1-2-964503">
+  <offer internal-id="moskvoreche-964503">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
       <latitude>55.6453262</latitude>
@@ -1540,11 +1540,11 @@
     <area><value>19.1</value><unit>кв. м</unit></area>
   </offer>
 
-  <offer internal-id="moskvoreche-1-3-984996">
+  <offer internal-id="moskvoreche-984996">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
       <latitude>55.6453262</latitude>
@@ -1574,11 +1574,11 @@
     <kitchen-space><value>14.5</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="moskvoreche-1-2-964326">
+  <offer internal-id="moskvoreche-964326">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
       <latitude>55.6453262</latitude>
@@ -1608,11 +1608,11 @@
     <kitchen-space><value>15.3</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="moskvoreche-1-2-964328">
+  <offer internal-id="moskvoreche-964328">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
       <latitude>55.6453262</latitude>
@@ -1642,11 +1642,11 @@
     <kitchen-space><value>21.6</value><unit>кв. м</unit></kitchen-space>
   </offer>
 
-  <offer internal-id="moskvoreche-1-3-984887">
+  <offer internal-id="moskvoreche-984887">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <creation-date>2026-09-14T01:46:09+03:00</creation-date>
+    <creation-date>2026-09-14T01:49:47+03:00</creation-date>
     <location>
       <address>Москва, район Москворечье-Сабурово, Котляковская улица</address>
       <latitude>55.6453262</latitude>
