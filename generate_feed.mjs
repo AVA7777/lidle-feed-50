@@ -65,7 +65,7 @@ const offers = lots.map(lot => {
     `      <longitude>${p.longitude}</longitude>`,
     `      <metro><name>${esc(p.metro)}</name><time-on-foot>${p.walkMinutes}</time-on-foot></metro>`,
     '    </location>',
-    '    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization></sales-agent>',
+    '    <sales-agent><name>Посоветуй</name><category>agency</category><organization>Посоветуй</organization><phone>+79256765197</phone></sales-agent>',
     '    <deal-status>первичная продажа</deal-status>',
     `    <price><value>${lot.price}</value><currency>RUR</currency></price>`,
     `    <rooms>${room.rooms}</rooms>`,

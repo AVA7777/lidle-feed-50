@@ -29,6 +29,8 @@ for (const tag of ['type','property-type','category','location','price','rooms',
 }
 if (/по данным\s+(?:trendagent|тренд\s*агент)/iu.test(xml)) errors.push('Forbidden source attribution appears in description');
 if (count(xml, /<image>/g) < 250) errors.push('Expected at least 5 images per offer');
+if (count(xml, /<phone>\+79256765197<\/phone>/g) !== 50) errors.push('Every offer must contain the only approved phone number');
+if (/<phone>(?!\+79256765197<\/phone>)/g.test(xml)) errors.push('Feed contains an unapproved phone number');
 if (!xml.endsWith('</realty-feed>\n')) errors.push('Feed closing tag/newline invalid');
 
 if (errors.length) {
